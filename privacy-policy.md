@@ -1,4 +1,4 @@
-# Privacy Policy — Deck Delve
+# Privacy Policy - Deck Delve
 
 *Last updated: 19.8.2026 | Effective for version 0.1 onward*
 
@@ -8,10 +8,10 @@ This privacy policy explains what data Deck Delve ("the game") collects, why it 
 
 Deck Delve uses **GameAnalytics** to collect gameplay data that helps us understand how the game is played and improve it over time. Specifically, this may include:
 
-- **Gameplay events** — actions such as card plays, deck choices, level progress, deaths, and run outcomes
-- **Session data** — session length, number of sessions, time between sessions
-- **Performance metrics** — frames per second (FPS) and related technical performance data
-- **Device and platform information** — operating system, hardware category, and a persistent, anonymous device or installation identifier assigned by GameAnalytics (used to distinguish unique players and sessions)
+- **Gameplay events** - actions such as card plays, deck choices, level progress, deaths, and run outcomes
+- **Session data** - session length, number of sessions, time between sessions
+- **Performance metrics** - frames per second (FPS) and related technical performance data
+- **Device and platform information** - operating system, hardware category, and a persistent, anonymous device or installation identifier assigned by GameAnalytics (used to distinguish unique players and sessions)
 
 We do **not** collect names, email addresses, payment information, or any data that directly identifies you as an individual. All data is tied to an anonymous identifier, not to your real-world identity.
 
@@ -36,7 +36,7 @@ We do not share your data with any other third party beyond what is necessary to
 
 Where required by law (including under the EU General Data Protection Regulation, GDPR), we rely on your **consent** as the legal basis for collecting this data. You will be asked to accept or decline analytics collection the first time you launch the game. If you decline, no gameplay data is sent to GameAnalytics, and the game remains fully playable.
 
-You may withdraw consent at any time via the in-game settings menu (*Settings → Privacy → Analytics*).
+You may withdraw consent at any time via the in-game settings menu (*Settings -> Game Analytics*).
 
 ## 5. Data retention
 
